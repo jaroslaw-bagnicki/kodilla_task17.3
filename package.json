@@ -1,0 +1,19 @@
+{
+  "name": "task17.3",
+  "version": "1.0.0",
+  "description": "Dealing with glogals in Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaroslaw-bagnicki/kodilla_task17.3.git"
+  },
+  "author": "Jarosław Bagnicki <jarek@bagnicki.net>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/jaroslaw-bagnicki/kodilla_task17.3/issues"
+  },
+  "homepage": "https://github.com/jaroslaw-bagnicki/kodilla_task17.3#readme"
+}
